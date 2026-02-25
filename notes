@@ -1,0 +1,37 @@
+🟢 EASY (Basic Loop Practice)
+Print numbers from 1 to N.
+Print the sum of first N natural numbers.
+Print the factorial of a number.
+Reverse a given number (e.g., 123 → 321).
+Count the number of digits in a number.
+Print multiplication table of N.
+Print all even numbers up to N.
+Find the sum of digits of a number.
+Find the product of digits of a number.
+Check if a number is palindrome.
+
+
+🟡 MEDIUM (Conditions Inside Loops)
+Check if a number is prime.
+Print all prime numbers up to N.
+Print Fibonacci series up to N terms.
+Find the GCD (HCF) of two numbers using loops.
+Find the LCM of two numbers using loops.
+Count vowels and consonants in a string using loops.
+Check if a number is Armstrong (e.g., 153 = 1³ + 5³ + 3³).
+Check if a number is Perfect (e.g., 28 = 1 + 2 + 4 + 7 + 14).
+Find the smallest digit in a number.
+Find the largest digit in a number.
+Calculate power of a number (a^b) using loops.
+Find sum of squares of first N natural numbers.
+
+
+🔴 HARD (Complex Looping Logic)
+Print all factors of a number.
+Find all prime factors of a number.
+Find the largest prime factor of a number.
+Find the GCD of an array of numbers using loops.
+Find the LCM of an array of numbers using loops.
+Find the largest palindrome number in a given range.
+Print first N numbers that are both prime and palindrome.
+Generate Pascal’s Triangle (first N rows) using loops.
