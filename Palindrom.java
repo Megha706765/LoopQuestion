@@ -4,6 +4,7 @@ import java.util.Scanner;
 class Palindrom {
 
     public static void main(String[] args) {
+        //n = 123321; ya n=12321;
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int original = n;

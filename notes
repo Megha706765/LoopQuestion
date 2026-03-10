@@ -1,14 +1,14 @@
 🟢 EASY (Basic Loop Practice)
-Print numbers from 1 to N.
-Print the sum of first N natural numbers.
-Print the factorial of a number.
-Reverse a given number (e.g., 123 → 321).
-Count the number of digits in a number.
-Print multiplication table of N.
-Print all even numbers up to N.
-Find the sum of digits of a number.
-Find the product of digits of a number.
-Check if a number is palindrome.
+Print numbers from 1 to N.*
+Print the sum of first N natural numbers.*
+Print the factorial of a number.*
+Reverse a given number (e.g., 123 → 321).*
+Count the number of digits in a number.*
+Print multiplication table of N.*
+Print all even numbers up to N.*
+Find the sum of digits of a number.*
+Find the product of digits of a number.*
+Check if a number is palindrome.*
 
 
 🟡 MEDIUM (Conditions Inside Loops)
